@@ -124,7 +124,7 @@ const products = [{
         id: 15,
         title: 'Elgato Stream Deck (Mini) 6 botones customizables',
         price: '78990',
-        category: 'periferico',
+        category: 'perifericos',
         type: 'Stream Decks',
         description: 'Elgato Stream Deck Mini Con 6 botones Customizables. Con iluminación LCD ',
         image: 'https://imagenes.compragamer.com/productos/compragamer_Imganen_general_41160_Elgato_Stream_Deck_Mini_6_botones_Customizables_LCD__9f46eb68-grn.jpg'
@@ -164,7 +164,7 @@ const products = [{
         id: 20,
         title: 'Microfono Asus ROG STRIX RGB Black',
         price: '282990',
-        category: 'periferico',
+        category: 'perifericos',
         type: 'Micrófono',
         description: 'Microfono Asus ROG STRIX Carnyx RGB AuraSync USB-C Black',
         image: 'https://imagenes.compragamer.com/productos/compragamer_Imganen_general_41443_Microfono_Asus_ROG_STRIX_Carnyx_RGB_AuraSync_USB-C_Black_ace5d37f-grn.jpg'
